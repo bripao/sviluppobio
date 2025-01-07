@@ -13,5 +13,4 @@
     <i class="fa fa-{{$icon}}"></i>
     @endif
     {{$slot}}
-</a>
-{{-- note --}}
+</a>{{-- note --}}

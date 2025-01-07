@@ -15,4 +15,3 @@ document.querySelector("#hamburger").addEventListener("click", function () {
 //       }, 600); // Match this duration with your CSS transition time
 //     }, duration);
 //   });
-//

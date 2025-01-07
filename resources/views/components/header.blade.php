@@ -53,4 +53,3 @@
         @endauth
     </nav> --}}
 </header>
-{{-- note --}}
